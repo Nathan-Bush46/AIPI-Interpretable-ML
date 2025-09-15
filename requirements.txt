@@ -1,0 +1,13 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Testing / linting / formatting
+black
+kagglehub[pandas-datasets]
+
+statsmodels
+seaborn
+pygam
