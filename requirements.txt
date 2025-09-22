@@ -11,3 +11,5 @@ kagglehub[pandas-datasets]
 statsmodels
 seaborn
 pygam
+lime
+shap

@@ -1,12 +1,15 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
 {
-	"name": "TCF Capstone",
+	"name": "ML",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
 	"mounts": [
- 	"type=bind,source=${localEnv:USERPROFILE}\\.ssh,target=/home/vscode/.ssh"
+		// Windows
+		"type=bind,source=${localEnv:USERPROFILE}\\.ssh,target=/home/vscode/.ssh",
+		// macOS/Linux
+		"type=bind,source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh"
 	],
 	"remoteUser": "vscode",
 	"customizations": {
