@@ -13,3 +13,6 @@ seaborn
 pygam
 lime
 shap
+ucimlrepo
+xgboost
+PyALE
