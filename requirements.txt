@@ -16,3 +16,13 @@ shap
 ucimlrepo
 xgboost
 PyALE
+
+torch
+torchvision
+
+grad-cam
+datasets        # for Hugging Face datasets like garbage-classification
+opencv-python   # for image preprocessing
+tqdm            # for progress bars
+tensorflow_datasets
+tensorflow
