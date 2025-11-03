@@ -26,3 +26,6 @@ opencv-python   # for image preprocessing
 tqdm            # for progress bars
 tensorflow_datasets
 tensorflow
+pytorch_lightning
+ipywidgets
+tabulate

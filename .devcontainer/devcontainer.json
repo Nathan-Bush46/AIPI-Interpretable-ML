@@ -1,17 +1,15 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
 {
-	"name": "ML",
+	"name": "docker python try 1",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
-	"mounts": [
-		// Windows
-		"type=bind,source=${localEnv:USERPROFILE}\\.ssh,target=/home/vscode/.ssh",
-		// macOS/Linux
-		"type=bind,source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh"
+	"runArgs": [
+		"--gpus", "all",
+		"--shm-size=16g"
 	],
-	"remoteUser": "vscode",
+	"postCreateCommand": "sh .devcontainer/postinstall.sh",
 	"customizations": {
 		"vscode": {
 			"extensions": [
@@ -20,5 +18,9 @@
 				"ms-toolsai.jupyter"
 			]
 		}
-	}
+	},
+	"mounts": [
+		// Windows
+		"type=bind,source=${localEnv:USERPROFILE}\\.ssh,target=/root/.ssh"
+	]
 }
