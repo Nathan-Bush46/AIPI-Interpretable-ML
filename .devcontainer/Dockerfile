@@ -23,6 +23,14 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 RUN mkdir -p /root/.ssh && touch /root/.ssh/known_hosts && \
     ssh-keyscan -H github.com >> /root/.ssh/known_hosts || true
 
+# 🧱 Fix SSH key and known_hosts permissions (for rebuilds)
+# If keys are copied or mounted later, this ensures correct perms.
+RUN chmod 700 /root/.ssh || true && \
+    find /root/.ssh -type f -name "id_*" -exec chmod 600 {} \; || true && \
+    find /root/.ssh -type f -name "*.pub" -exec chmod 644 {} \; || true && \
+    chmod 644 /root/.ssh/known_hosts* || true
+
+
 # ============================================================
 # 🧭 CUDA ENVIRONMENT
 # ============================================================
