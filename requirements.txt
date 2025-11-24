@@ -30,3 +30,12 @@ pytorch_lightning
 ipywidgets
 tabulate
 nbformat
+
+
+gradio_client
+diffusers
+accelerate 
+pillow 
+transformers
+sentencepiece
+replicate

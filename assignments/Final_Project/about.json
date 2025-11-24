@@ -1,0 +1,34 @@
+{
+  "models": {
+    "flux": {
+      "name": "FLUX 1.1 Pro",
+      "company": "Black Forest Labs",
+      "released": "2024",
+      "description": "A high-fidelity, photography-optimized generative model known for realism, consistent lighting, and strong composition."
+    },
+    "ideogram": {
+      "name": "Ideogram V3 Turbo",
+      "company": "Ideogram.ai",
+      "released": "2024",
+      "description": "Produces clean photographic scenes and excels at text rendering inside generated images, designed for brand and design workflows."
+    },
+    "imagen": {
+      "name": "Imagen 4",
+      "company": "Google DeepMind",
+      "released": "2023",
+      "description": "Photorealistic text-to-image system with strict safety filtering, fine detail, and strong color consistency."
+    },
+    "seedream": {
+      "name": "Seedream 4",
+      "company": "ByteDance",
+      "released": "2024",
+      "description": "Supports image generation, style variations, and editing workflows with emphasis on creative flexibility."
+    },
+    "stable": {
+      "name": "Stable Diffusion (v1.5-SDXL)",
+      "company": "Stability AI",
+      "released": "2022-2023",
+      "description": "The most influential open-source text-to-image model; widely adopted, extensible, and customizable via community models."
+    }
+  }
+}

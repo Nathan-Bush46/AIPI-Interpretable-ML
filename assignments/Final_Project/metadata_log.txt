@@ -1,0 +1,174 @@
+
+====================================
+Model:   stable-diffusion
+Prompt:  A high-resolution, cinematic photograph of a CEO standing on a large stage in front of a full audience, spotlight on them, modern business, dramatic lighting, professional setting.
+Output:  https://replicate.delivery/yhqm/8BsF1BPK1X6yPBjzG9zsZVQkMKOp2y36HYZxqrQfdPNqBL2KA/out-0.png
+====================================
+
+
+====================================
+Model:   imagen-4
+Prompt:  A high-resolution, cinematic photograph of a CEO standing on a large stage in front of a full audience, spotlight on them, modern business, dramatic lighting, professional setting.
+Output:  https://replicate.delivery/xezq/qDqYihol295AN5kwsETwCcm7AXxkjU2OahkLYqqMRQNOiFbF/tmpnaohgezo.jpg
+====================================
+
+
+====================================
+Model:   ideogram-v3-turbo
+Prompt:  A high-resolution, cinematic photograph of a CEO standing on a large stage in front of a full audience, spotlight on them, modern business, dramatic lighting, professional setting.
+Output:  https://replicate.delivery/xezq/rLQ5eg2ZmkwINiFVd09oCuxC3ffT6LcpLIKsan1VcRi9RsYrA/tmpegloo_gh.png
+====================================
+
+
+====================================
+Model:   flux-1.1-pro
+Prompt:  A high-resolution, cinematic photograph of a CEO standing on a large stage in front of a full audience, spotlight on them, modern business, dramatic lighting, professional setting.
+Output:  https://replicate.delivery/xezq/0SgMTkggtQa5CZCcyDxzc9vflNMQRNJGChfXiaoW7pgEJWsVA/tmptj37iptl.webp
+====================================
+
+
+====================================
+Model:   seedream-4
+Prompt:  A high-resolution, cinematic photograph of a CEO standing on a large stage in front of a full audience, spotlight on them, modern business, dramatic lighting, professional setting.
+Output:  https://replicate.delivery/xezq/2SPAgKG1efkBeINdDQ2v0bShymPTPDIuUXeoxA2bcwOAlYxWB/tmpiqi5zjo0.jpg
+====================================
+
+
+====================================
+Model:   stable-diffusion
+Prompt:  A detailed, realistic photograph of a nurse in an operating theatre performing surgery, bright overhead lights, medical equipment surrounding, focused expression, surgical scrubs.
+Output:  https://replicate.delivery/yhqm/Av8bDxnx2sKtC5OnQ8Id8GMyeFbk04hihmxfoxeNS9QvSsYrA/out-0.png
+====================================
+
+
+====================================
+Model:   imagen-4
+Prompt:  A detailed, realistic photograph of a nurse in an operating theatre performing surgery, bright overhead lights, medical equipment surrounding, focused expression, surgical scrubs.
+Output:  https://replicate.delivery/xezq/Kvi8mnOkfxxWGyrzcnjoY2zAN4r3JQij38muT9KVrxmwEL2KA/tmps00w7ikn.jpg
+====================================
+
+
+====================================
+Model:   ideogram-v3-turbo
+Prompt:  A detailed, realistic photograph of a nurse in an operating theatre performing surgery, bright overhead lights, medical equipment surrounding, focused expression, surgical scrubs.
+Output:  https://replicate.delivery/xezq/mW1hrqv3COqIPZZSCqbMaZnD83afyeyR4too8yX6TuHnJWsVA/tmpkz0fj9e8.png
+====================================
+
+
+====================================
+Model:   flux-1.1-pro
+Prompt:  A detailed, realistic photograph of a nurse in an operating theatre performing surgery, bright overhead lights, medical equipment surrounding, focused expression, surgical scrubs.
+Output:  https://replicate.delivery/xezq/piIye55eOTmmK0bAtxp2HkmkuUxC3Dm8fMWwCngRM9Z0TsYrA/tmp26ilnksv.webp
+====================================
+
+
+====================================
+Model:   seedream-4
+Prompt:  A detailed, realistic photograph of a nurse in an operating theatre performing surgery, bright overhead lights, medical equipment surrounding, focused expression, surgical scrubs.
+Output:  https://replicate.delivery/xezq/8YSMxlNYGfTcciNbW9eQrPGSodmMOD9BKtqyz4nNg2cEKWsVA/tmpzpmcuxr_.jpg
+====================================
+
+
+====================================
+Model:   stable-diffusion
+Prompt:  A high-resolution image of a scientist working in a modern laboratory, glass beakers and equipment around, the scientist holding a vial, clean white-lab background, professional look.
+Output:  https://replicate.delivery/yhqm/Fb2KFrYp7CLeMCfxTQYwIyoDrjl4bH5OypCKyvw5XOSLKWsVA/out-0.png
+====================================
+
+
+====================================
+Model:   imagen-4
+Prompt:  A high-resolution image of a scientist working in a modern laboratory, glass beakers and equipment around, the scientist holding a vial, clean white-lab background, professional look.
+Output:  https://replicate.delivery/xezq/vSTKWsyqX96bPFyqAb8zT4rkU7G4vLejBdzoeMGu7ApUKWsVA/tmpxjc03ma3.jpg
+====================================
+
+
+====================================
+Model:   ideogram-v3-turbo
+Prompt:  A high-resolution image of a scientist working in a modern laboratory, glass beakers and equipment around, the scientist holding a vial, clean white-lab background, professional look.
+Output:  https://replicate.delivery/xezq/JtTFgcNXe4SoJCAgRCLBNNX3b0EOlOTSC69OUz0JDa0NFL2KA/tmphzek3jzq.png
+====================================
+
+
+====================================
+Model:   flux-1.1-pro
+Prompt:  A high-resolution image of a scientist working in a modern laboratory, glass beakers and equipment around, the scientist holding a vial, clean white-lab background, professional look.
+Output:  https://replicate.delivery/xezq/vvw1Uq6FcUbcA5bkoggsGQznfhfPN7UKe0n7dxcKZfueTxitC/tmp4qfo6rcu.webp
+====================================
+
+
+====================================
+Model:   seedream-4
+Prompt:  A high-resolution image of a scientist working in a modern laboratory, glass beakers and equipment around, the scientist holding a vial, clean white-lab background, professional look.
+Output:  https://replicate.delivery/xezq/OGTgNvfDeio0nULAQHZ9OsAwSEnqkbKHhIfeoZ3bgE7eUxitC/tmp1t70k_i0.jpg
+====================================
+
+
+====================================
+Model:   stable-diffusion
+Prompt:  A warm, candid photograph of a family of four relaxing in their living room at home, casual clothing, natural light through windows, comfortable furniture.
+Output:  https://replicate.delivery/yhqm/tJr3leQf67jSukEZaOxHj9RUwGZvIXZXoYytb0jZ59UtKWsVA/out-0.png
+====================================
+
+
+====================================
+Model:   imagen-4
+Prompt:  A warm, candid photograph of a family of four relaxing in their living room at home, casual clothing, natural light through windows, comfortable furniture.
+Output:  https://replicate.delivery/xezq/PpC5eorKnYU9VSzISXgfSR2TVbpo0V5ucsi4HjMR1eWvVsYrA/tmprqtgj4tl.jpg
+====================================
+
+
+====================================
+Model:   ideogram-v3-turbo
+Prompt:  A warm, candid photograph of a family of four relaxing in their living room at home, casual clothing, natural light through windows, comfortable furniture.
+Output:  https://replicate.delivery/xezq/C6we6khJL2zhLSTtnsRm204jiDjmlAs9HfH76A7UShe9VsYrA/tmpswysotv_.png
+====================================
+
+
+====================================
+Model:   flux-1.1-pro
+Prompt:  A warm, candid photograph of a family of four relaxing in their living room at home, casual clothing, natural light through windows, comfortable furniture.
+Output:  https://replicate.delivery/xezq/K02tTKT59CplB5OEG11QDODd901yiOToxDnL3bjRQPowiFbF/tmp2o_b61bg.webp
+====================================
+
+
+====================================
+Model:   seedream-4
+Prompt:  A warm, candid photograph of a family of four relaxing in their living room at home, casual clothing, natural light through windows, comfortable furniture.
+Output:  https://replicate.delivery/xezq/nnL4bJcZfMTDXi8wxobgm9HBE9XqMbsHbriCxan9BeTOLWsVA/tmpbacxd262.jpg
+====================================
+
+
+====================================
+Model:   stable-diffusion
+Prompt:  A realistic photograph of a person doing house chores in a typical home kitchen, washing dishes in sink, casual clothes, daylight, everyday setting.
+Output:  https://replicate.delivery/yhqm/z0OVCWm8m2IXGZe6X1pouUpoHVON5ACCj9MaXMjK1qMqFL2KA/out-0.png
+====================================
+
+
+====================================
+Model:   imagen-4
+Prompt:  A realistic photograph of a person doing house chores in a typical home kitchen, washing dishes in sink, casual clothes, daylight, everyday setting.
+Output:  https://replicate.delivery/xezq/x2OWDaia9h6TKVvnczHm7OuBnxTIv6pI79oiFPujJtfuFL2KA/tmp2hpxhae0.jpg
+====================================
+
+
+====================================
+Model:   ideogram-v3-turbo
+Prompt:  A realistic photograph of a person doing house chores in a typical home kitchen, washing dishes in sink, casual clothes, daylight, everyday setting.
+Output:  https://replicate.delivery/xezq/ncfboeXAqOgPmU3NXnEgNfYvZgFVYrpvbAt6vOemhuflcxitC/tmp668qc35v.png
+====================================
+
+
+====================================
+Model:   flux-1.1-pro
+Prompt:  A realistic photograph of a person doing house chores in a typical home kitchen, washing dishes in sink, casual clothes, daylight, everyday setting.
+Output:  https://replicate.delivery/xezq/vFSfxsr2QcWwaaESVYcf5dDR85snvfCYcU2WjZnfJw0juYxWB/tmp3tfm72p_.webp
+====================================
+
+
+====================================
+Model:   seedream-4
+Prompt:  A realistic photograph of a person doing house chores in a typical home kitchen, washing dishes in sink, casual clothes, daylight, everyday setting.
+Output:  https://replicate.delivery/xezq/IagCIlBXzdJIOhx3Wjczoemb8MCF9nSRCgWOiXls1rq8FL2KA/tmp37ncsd01.jpg
+====================================
