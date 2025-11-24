@@ -94,14 +94,51 @@ body {
 }
 
 /* --------------------------
-   HEADERS
+   HEADER — Option A (Boxed + Colorful)
 --------------------------- */
 header {
-  padding: 80px 20px 30px;
-  text-align: center;
+  margin: 40px auto;
+  padding: 40px 30px;
   max-width: 900px;
-  margin: 0 auto;
+  text-align: center;
+
+  /* Make it stand out */
+  background: var(--accent-bg);
+  border: 2px solid var(--accent);
+  border-radius: 14px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
 }
+
+header h1 {
+  font-size: 2.6rem;
+  margin-bottom: 10px;
+  color: var(--accent-text);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 800;
+}
+
+header p {
+  font-size: 1.2rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+/* Accent colors for light + dark mode */
+body.light {
+  --accent-bg: #e0f0ff;
+  --accent: #3a8bfd;
+  --accent-text: #084080;
+  --text-muted: #444;
+}
+
+body.dark {
+  --accent-bg: #1e2a35;
+  --accent: #4aa3ff;
+  --accent-text: #aad4ff;
+  --text-muted: #cfd8e3;
+}
+
 
 /* --------------------------
    SECTION BLOCKS
